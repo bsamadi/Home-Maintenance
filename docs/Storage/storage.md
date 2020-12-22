@@ -15,3 +15,4 @@ permalink: docs/storage
 * [Access Storage](https://www.accessstorage.ca/en/self-storage/toronto/toronto/)
 * [Second Closet](https://www.secondcloset.com/)
 * [Storage Mart](https://www.storage-mart.com/)
+* [AJ Self Storage](https://ajselfstorage.com/)
