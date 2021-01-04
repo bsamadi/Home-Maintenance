@@ -9,5 +9,8 @@ permalink: docs/moving
 # Moving containers
 {: .no_toc }
 
-* [Pods](https://www.pods.ca/)
+* [Best moving container companies in Canada](https://movingwaldo.com/movers/best-moving-container-companies-canada/)
+* [Pods](https://www.pods.ca/) (the driveway should be at least 12ft wide)
 * [Cubeit](https://www.cubeit.ca/)
+* [Big Steel Box](https://www.bigsteelbox.com/storage/)
+
