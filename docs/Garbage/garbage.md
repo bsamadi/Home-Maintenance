@@ -31,4 +31,7 @@ permalink: docs/garbage
 * [Bin Depot](https://www.bindepot.com/)
 * [ASAP Site Services](https://www.asapsiteservices.com/roll-off-dumpster-rentals/)
 
+# Garbage removal
+* [Just Junk](https://justjunk.com/)
+
 {: .fs-6 .fw-300 }
